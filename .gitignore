@@ -13,3 +13,5 @@ Gemfile.lock
 
 .sass-cache/
 .jekyll-cache/
+
+.ruby-version
