@@ -1,8 +1,14 @@
 # Changelog
 
-## Ongoing [☰](https://github.com/philnash/jekyll-brotli/compare/v2.3.0...main)
+## Ongoing [☰](https://github.com/philnash/jekyll-brotli/compare/v2.4.1...main)
 
 ...
+
+## 2.4.1 (2026-07-15) [☰](https://github.com/philnash/jekyll-brotli/compare/v2.4.0...v2.4.1)
+
+### Changed
+
+- Loosened version requirements on brotli gem
 
 ## 2.4.0 (2023-08-29) [☰](https://github.com/philnash/jekyll-brotli/compare/v2.3.0...v2.4.0)
 
